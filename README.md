@@ -6,3 +6,6 @@ cari data sheet
 
 http://www.st.com/en/microcontrollers/stm32f407vg.html
 http://tecsploit.com/stm32f4-discovery/hello-world-using-an-stm32f4-discovery/
+
+
+Minggu 2 : bikin project jadi main.c, projrct belum ditransfer ke stm32 ( belum ada stlink )
