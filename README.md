@@ -10,7 +10,7 @@
 - [ ] save picture in separate docs directory, update the link to README.md  
 - [ ] a cooler project will come then  
 
-# minggu 1,
+# update
 install eclipse + plug-in + toolchain
 cari data sheet
 
@@ -18,11 +18,21 @@ http://www.st.com/en/microcontrollers/stm32f407vg.html
 http://tecsploit.com/stm32f4-discovery/hello-world-using-an-stm32f4-discovery/
 
 
-# Minggu 2,
-bikin project jadi main.c, projrct belum ditransfer ke stm32 ( belum ada stlink )
+# update
+bikin project jadi main.c
+project belum ditransfer ke stm32 ( belum ada stlink )
 
 
-# minggu 3,
-bikin project di eclipse. (.hex dan .elf)
+# update
+bikin project di eclipse .hex dan .elf
 connect binary file ke stm32f407 pake stlink
 LD1 blink
+!(stm32f4/gambar/blink LD1.1.JPG)
+!(stm32f4/gambar/blink LD1.2.JPG)
+
+
+# update
+laptop down. install ulang semua, download ulang semua 
+instal dari web ini https://gnu-mcu-eclipse.github.io/
+!(stm32f4/gambar/blink1.JPG)
+!(stm32f4/gambar/blink2.JPG)
