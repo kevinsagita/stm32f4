@@ -27,12 +27,12 @@ project belum ditransfer ke stm32 ( belum ada stlink )
 bikin project di eclipse .hex dan .elf
 connect binary file ke stm32f407 pake stlink
 LD1 blink
-!(stm32f4/gambar/blink LD1.1.JPG)
-!(stm32f4/gambar/blink LD1.2.JPG)
+![LD1 Blink (1)](stm32f4/gambar/blink LD1.1.JPG)
+![LD1 Blink (2)](stm32f4/gambar/blink LD1.2.JPG)
 
 
 # update
 laptop down. install ulang semua, download ulang semua 
 instal dari web ini https://gnu-mcu-eclipse.github.io/
-!(stm32f4/gambar/blink1.JPG)
-!(stm32f4/gambar/blink2.JPG)
+![LD4 Blink (1)](stm32f4/gambar/blink1.JPG)
+![LD4 Blink (2)](stm32f4/gambar/blink2.JPG)
