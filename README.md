@@ -27,8 +27,8 @@ project belum ditransfer ke stm32 ( belum ada stlink )
 bikin project di eclipse .hex dan .elf
 connect binary file ke stm32f407 pake stlink
 LD1 blink
-![LD1 Blink (1)](https://github.com/kevinsagita/stm32f4/blob/master/gambar/blink1.1.JPG)
-![LD1 Blink (2)](https://github.com/kevinsagita/stm32f4/blob/master/gambar/blink1.2.JPG)
+![LD1 Blink (1)](https://github.com/kevinsagita/stm32f4/blob/master/gambar/blink%20LD1.1.JPG)
+![LD1 Blink (2)](https://github.com/kevinsagita/stm32f4/blob/master/gambar/blink%20LD1.2.JPG)
 
 
 # update
